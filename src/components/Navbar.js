@@ -14,7 +14,7 @@ class Navbar extends Component{
                 <div className="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                    <a className="nav-link" target="_blank" href={`https://etherscan.io/address/${this.props.account}`}>{this.props.account}</a>
+                    <a className="nav-link" target="_blank" without rel="noopener noreferrer" href={`https://etherscan.io/address/${this.props.account}`}>{this.props.account}</a>
                     </li>
                 </ul>
                 </div>

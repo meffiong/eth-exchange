@@ -72,7 +72,7 @@ const showForm = (props) => {
                         />
                     </div>
                     <div className="col-12 col-sm-auto pr-sm-0">
-                        <button type="submit" className="btn btn-primary btn-black btn-sm">Deposit</button>
+                        <button type="submit" className="btn btn-primary btn-block btn-sm">Deposit</button>
                     </div>
                 </form>
                 <table className="table table-dark table-sm small">

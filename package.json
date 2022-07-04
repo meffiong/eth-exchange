@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.1.0",
-    "apexcharts": "3.35.0",
+    "apexcharts": "^3.35.3",
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
     "babel-preset-es2015": "6.24.1",
@@ -34,6 +34,7 @@
     "redux": "4.0.5",
     "redux-logger": "3.0.6",
     "reselect": "4.0.0",
+    "serve": "^13.0.2",
     "solidity-coverage": "0.7.10",
     "truffle": "5.1.45",
     "truffle-flattener": "1.5.0",
